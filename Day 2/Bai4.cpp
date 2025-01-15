@@ -1,4 +1,4 @@
-// Cho n nhập từ bàn phím (n đủ lớn), phân tích TSNT, tìm ước số nguyên tố (m) lớn nhất của nó, tìm số nguyên tố gần m nhất, tìm số hoàn hảo gần m nhất
+// Cho n nhập từ bàn phím (n đủ lớn), phân tích n thành TSNT, tìm ước số nguyên tố (m) lớn nhất của nó, tìm số nguyên tố gần m nhất, tìm số hoàn hảo gần m nhất
 
 #include <bits/stdc++.h>
 using namespace std;
