@@ -1,0 +1,5 @@
+# Bỏ qua tất cả các file .exe
+*.exe
+
+# Bỏ qua thư mục .vscode
+.vscode/
